@@ -1,0 +1,117 @@
+[
+    {
+        "id": 2334652,
+        "name": "Keffi",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 7.87361,
+            "lat": 8.84861
+        }
+    },
+    {
+        "id": 2332515,
+        "name": "Lafia",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 8.51667,
+            "lat": 8.48333
+        }
+    },
+    {
+        "id": 2329451,
+        "name": "Nasarawa",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 7.72417,
+            "lat": 8.52944
+        }
+    },
+
+    {
+        "id": 2344600,
+        "name": "Doma",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 8.35,
+            "lat": 8.38333
+        }
+    },
+
+    {
+        "id": 2335727,
+        "name": "Kaduna",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 7.43828,
+            "lat": 10.52224
+        }
+    },
+
+    {
+        "id": 2335204,
+        "name": "Kano",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 8.51672,
+            "lat": 12.00012
+        }
+    },
+
+    {
+        "id": 2334802,
+        "name": "Katsina",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 7.60063,
+            "lat": 12.98943
+        }
+    },
+
+    {
+        "id": 2322911,
+        "name": "Sokoto",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 5.23902,
+            "lat": 13.06092
+        }
+    },
+
+    {
+        "id": 2352778,
+        "name": "Abuja",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 7.48976,
+            "lat": 9.05735
+        }
+    },
+
+    {
+        "id": 2335953,
+        "name": "Jos",
+        "state": "",
+        "country": "NG",
+        "coord": {
+            "lon": 8.9,
+            "lat": 9.91667
+        }
+    }
+
+
+
+
+
+
+
+
+]
